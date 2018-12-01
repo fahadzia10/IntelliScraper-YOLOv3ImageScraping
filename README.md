@@ -1,9 +1,9 @@
 # IntelliScraper-YOLOv3ImageScraping
 
-##Intro
+## What is IntelliScraper
 This is an intelligent image scraper for the web that uses a simple python web scraper to generate images which are then refined based on output from a YOLO v3 Deep Learning model that extracts only the required images of objects and stores them in a separate sub-folder.
 
-##How To Run
+## How To Run
 1. Download weights of model from the following link and paste in IntelliScraper folder:
 https://pjreddie.com/media/files/yolov3.weights
 
